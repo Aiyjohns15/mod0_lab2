@@ -3,3 +3,7 @@ The data in colums 2 and 4 can be classified as integers because they include wh
 The data in colums 5, 6, and 7 can be classified as floats because they include numerical values containing decimal points.
 There are 71 rows and 11 countries in the dataset.
 For all 7 years both Nigeria and Kenya failed to report information in the fossil share and renewable share energy columns.
+
+My 2 concerns are: 
+1. Is the data missing due to bias in the collection method?
+2. How will this missing data impact future energy analysis?
